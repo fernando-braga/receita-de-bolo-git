@@ -1,0 +1,37 @@
+body {
+	padding-left: 25%;
+	padding-right: 25%;
+	padding-top:2%;
+	padding-bottom: 60;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsOYHRlQ59ENTn-6PjOcwPtNDaR7idf0-P8w&usqp=CAU");
+}
+
+
+h1 {
+	
+	margin-right: 40%;
+	background-color: #e59400;
+}
+
+
+h2{
+	font-size:30px ;
+	background-color: #e59400;
+}
+
+p {
+	background-color: #e59400;
+
+}
+
+li {
+
+	background-color: #e59400;
+}
+
+
+
+h3 {
+	font-size: 30px;
+	background-color: #e59400;
+}
